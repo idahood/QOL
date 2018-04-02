@@ -1,3 +1,6 @@
+" disable bell
+set visualbell
+
 " setup vundle
 
 " (Required for Vundle)
