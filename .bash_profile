@@ -1,4 +1,3 @@
-eval "$(pyenv init -)"
 alias ls="ls -G"
 export LSCOLORS="ExGxBxDxCxEgEdxbxgxcxd"
 export GOPATH=$HOME/go
